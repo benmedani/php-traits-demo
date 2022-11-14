@@ -1,0 +1,20 @@
+{
+    "name": "ben/php-traits-test",
+    "scripts": {
+        "start": "php src/test.php"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ben\\PhpTraitsTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ben Schoeffmann",
+            "email": "benedikt.schoeffmann@medani.com",
+            "role": "developer"
+        }
+    ],
+    "license": "MIT",
+    "require": {}
+}
